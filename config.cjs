@@ -1,5 +1,5 @@
 module.exports = {
-  "ALIVE_IMG": "",
+  "ALIVE_IMG": "HI.! LOROOS I AM ALIVE NOW ASK ME ANYTHING BELONG TO YOUR SISTER 🥲",
   "FOOT": "HUSNAIN",
   "PREFIX": ".",
   "AUTO_READ_STATUS": "true",
